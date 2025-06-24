@@ -28,18 +28,6 @@ Implementar una secuencia continua de encendido de LEDs aplicando lógica estruc
 - Esto garantiza un comportamiento continuo, eficiente y sin retardos artificiales.
 
 
-##  Estructura del repositorio
-
-```
-📁 practica-1-secuencia-leds/
-├── src/
-│   └── secuencia.ino     # Código fuente de la práctica
-├── informe/
-│   └── P4_1_conDig.pdf        # Informe técnico de la práctica
-├── README.md                  # Este archivo
-```
-
-
 ## Informe
 
 Puedes consultar el desarrollo completo de la práctica, los diagramas, la tabla de asignación de pines y la explicación detallada en:
