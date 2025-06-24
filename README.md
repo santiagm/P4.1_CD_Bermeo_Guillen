@@ -37,8 +37,7 @@ Puedes consultar el desarrollo completo de la práctica, los diagramas, la tabla
 ## Código
 
 Puedes consultar el codigo detallado en:
- [`secuencia.ino`](./secuencia
-/secuencia.ino)
+ [`secuencia.ino`](./secuencia/secuencia.ino)
 
 ## Autor
 
