@@ -44,7 +44,7 @@ Implementar una secuencia continua de encendido de LEDs aplicando lógica estruc
 
 Puedes consultar el desarrollo completo de la práctica, los diagramas, la tabla de asignación de pines y la explicación detallada en:
 
-📄 [`informe/P4_1_conDig.pdf`](./informe/P4_1_conDig.pdf)
+📄 [`P4_1_conDig.pdf`](./P4_1_conDig.pdf)
 
 ## 👨‍💻 Autor
 
