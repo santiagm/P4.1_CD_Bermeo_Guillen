@@ -49,7 +49,8 @@ Puedes consultar el desarrollo completo de la práctica, los diagramas, la tabla
 ## Código
 
 Puedes consultar el codigo detalaldo en:
-📄 [`secuencia.ino`](./secuencia/secuencia.ino)
+📄 [`secuencia.ino`](.P4.1_CD_Bermeo_Guillen/secuencia
+/secuencia/)
 
 ## Autor
 
